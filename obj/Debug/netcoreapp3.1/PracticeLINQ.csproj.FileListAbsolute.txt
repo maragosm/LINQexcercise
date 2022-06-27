@@ -1,0 +1,14 @@
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.exe
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.deps.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.runtimeconfig.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.runtimeconfig.dev.json
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\bin\Debug\netcoreapp3.1\PracticeLINQ.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.csproj.AssemblyReference.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.AssemblyInfoInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.AssemblyInfo.cs
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.csproj.CoreCompileInputs.cache
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.dll
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.pdb
+C:\Users\marag\OneDrive\Desktop\TrueCode\Repos\PracticeLINQ\obj\Debug\netcoreapp3.1\PracticeLINQ.genruntimeconfig.cache
